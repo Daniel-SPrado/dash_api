@@ -1,0 +1,2 @@
+FLASK_APP=dash_api
+FLASK_ENVIRONMENT=development
